@@ -19,3 +19,7 @@ header {
     text-align: center;
     border-bottom: 3px solid #ffb703;
 }
+
+nav {
+    margin-top: 10px;
+}
