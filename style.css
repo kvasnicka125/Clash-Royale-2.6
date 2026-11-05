@@ -90,3 +90,16 @@ ul, ol {
     border-radius: 5px;
     margin-bottom: 10px;
 }
+/* Patička */
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #0b0f19;
+    color: #8899a6;
+    margin-top: 40px;
+    border-top: 1px solid #2b3a55;
+}
+
+footer a {
+    color: #4cc9f0;
+}
