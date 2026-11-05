@@ -1,0 +1,21 @@
+/* Základní nastavení a tmavý herní motiv */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #121824;
+    color: #e0e6ed;
+    line-height: 1.6;
+}
+
+/* Hlavička a navigace */
+header {
+    background: linear-gradient(135deg, #1f293d, #111827);
+    padding: 20px 0;
+    text-align: center;
+    border-bottom: 3px solid #ffb703;
+}
